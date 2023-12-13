@@ -23,7 +23,7 @@ dependencies {
 	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
 }
 
-group = 'dev.jille.barrows-nothing-sound'
+group = 'dev.jille.barrowsnothingsound'
 version = '1.0-SNAPSHOT'
 
 tasks.withType(JavaCompile) {
