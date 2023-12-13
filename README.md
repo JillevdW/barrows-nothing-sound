@@ -1,0 +1,2 @@
+# Barrows Nothing Sound
+Embrace your inner Swampletics and be greeted with the iconic "Nothing" sound whenever you open an empty Barrows chest. This plugin was proven to increase your Barrows luck by 0.001%.
